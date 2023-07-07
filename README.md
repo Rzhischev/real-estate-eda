@@ -2,7 +2,7 @@
 Elbrus Bootcamp | Phase-0 | Team project
 
 
-## 🦸‍♂️🦸🏼‍♀️Команда:
+## 🦸‍♂️Команда:
 1. [Антон Яблоков](https://github.com/AntNikYab)
 2. [Вика Иванова](https://github.com/Vikaska031)
 3. [Салман Чакаев](https://github.com/veidlink)
